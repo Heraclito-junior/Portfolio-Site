@@ -1,0 +1,31 @@
+
+/**
+Detalhes do h1 do cabeçalho
+*/
+
+
+.cabecalhoTexto{
+    float: left;
+    font-size: 50px !important;
+    text-align: right
+}
+
+
+.nome{
+    overflow-wrap: break-word;
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+}
+
+.linkGithub{
+    width: 100%;
+    text-align: center;
+    word-wrap: break-word;
+    font-size: 15px;
+}
+
+
+
+
+
